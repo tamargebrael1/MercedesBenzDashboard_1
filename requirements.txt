@@ -13,3 +13,4 @@ numpy==1.22.2
 scikit-learn==1.1.0
 ImageHash==4.2.1
 scipy==1.8.1
+st-btn-select==0.1.2
